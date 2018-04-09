@@ -1,0 +1,16 @@
+﻿{
+	"Container": {
+		
+	},
+	"Database": {
+		"DataConnectionString": "Server=localhost,1401;Database=ePixelation.Scaffold;User Id=sa;Password=P@ssw0rd1;"
+	},
+	"Security": {
+		"KeyVault_ClientId": "",
+		"KeyVault_ClientSecret": "",
+		"KeyVault_SecretUri": ""
+	},
+	"Logging": {
+		"LogRequestsAndResponses": true
+	}
+}

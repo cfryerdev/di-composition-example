@@ -1,0 +1,16 @@
+﻿{
+	"Container": {
+
+	},
+	"Database": {
+		"DataConnectionString": ""
+	},
+	"Security": {
+		"KeyVault_ClientId": "",
+		"KeyVault_ClientSecret": "",
+		"KeyVault_SecretUri": ""
+	},
+	"Logging": {
+		"LogRequestsAndResponses": true
+	}
+}
